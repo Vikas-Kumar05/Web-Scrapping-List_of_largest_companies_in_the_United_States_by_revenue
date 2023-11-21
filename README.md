@@ -41,4 +41,8 @@ Step8 : Take that data in our system
 
 df.to_csv(r'E:\powerBI DASHBOARD\Companies.csv', index = False)
 
+Step9: Finally made powerBi Dashboard of these data. 
+
+![Uploading List of largest companies in US and its comparisons.png…]()
+
 
